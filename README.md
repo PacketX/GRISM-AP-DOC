@@ -1,26 +1,11 @@
 ---
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-metaLinks: {}
+description: >-
+  Welcome to the GRISM APH XML usage guide. This space walks you through the
+  structure of the APH XML payloads, how to generate them, and the conventions
+  our team follows when exchanging data.
 ---
 
-# GRISM APH XML
-
-Welcome to the GRISM APH XML usage guide. This space walks you through the structure of the APH XML payloads, how to generate them, and the conventions our team follows when exchanging data.
-
-Inside you'll find environment prerequisites, sample XML snippets, troubleshooting steps, and tips for adapting the GRISM workflows to your own projects.
+# GRISM APH documentation
 
 ## Device Support
 

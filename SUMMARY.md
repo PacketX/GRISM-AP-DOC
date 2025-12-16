@@ -1,16 +1,10 @@
 # Table of contents
 
-* [GRISM APH XML](README.md)
+## GET STARTED
 
-## Getting Started
+* [GRISM APH documentation](README.md)
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+## XML Script
 
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [Base XML Elements](xml-script/base-xml-elements/README.md)
+  * [Element \<run>](xml-script/base-xml-elements/element-less-than-run-greater-than.md)
