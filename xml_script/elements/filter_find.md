@@ -17,12 +17,12 @@ description: Defines the find(f). It has a start tag <find> or <f>
 
 | name              | type                      | Description                                         | Example           |
 |-------------------|---------------------------|-----------------------------------------------------|-------------------|
-| eth.addr          | MAC address               | Source or Destination MAC Address                   | 00:11:22:33:44:55 |
-| eth.src           | MAC address               | Source MAC Address                                  | 00:11:22:33:44:55 |
-| eth.dst           | MAC address               | Destination MAC Address                             | 00:11:22:33:44:55 |
-| ip.addr           | IPv4 address              | Source or Destination Address                       | 8.8.8.8           |
-| ip.src            | IPv4 address              | Source Address                                      | 8.8.8.8           |
-| ip.dst            | IPv4 address              | Destination Address                                 | 8.8.8.8           |
+| eth.addr          | String                    | Source or Destination MAC Address                   | 00:11:22:33:44:55 |
+| eth.src           | String                    | Source MAC Address                                  | 00:11:22:33:44:55 |
+| eth.dst           | String                    | Destination MAC Address                             | 00:11:22:33:44:55 |
+| ip.addr           | String                    | Source or Destination Address                       | 8.8.8.8           |
+| ip.src            | String                    | Source Address                                      | 8.8.8.8           |
+| ip.dst            | String                    | Destination Address                                 | 8.8.8.8           |
 | ip.proto          | Unsigned integer, 1 byte  | Protocol                                            | 6 (TCP)           |
 | tcp.port          | Unsigned integer, 2 bytes | Source or Destination Port                          | 443               |
 | tcp.srcport       | Unsigned integer, 2 bytes | Source Port                                         | 443               |
