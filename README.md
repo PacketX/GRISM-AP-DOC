@@ -1,11 +1,11 @@
 ---
 description: >-
-  Welcome to the GRISM APH XML usage guide. This space walks you through the
-  structure of the APH XML payloads, how to generate them, and the conventions
+  Welcome to the GRISM AP XML usage guide. This space walks you through the
+  structure of the AP XML payloads, how to generate them, and the conventions
   our team follows when exchanging data.
 ---
 
-# GRISM APH documentation
+# GRISM AP documentation
 
 ## Device Support
 

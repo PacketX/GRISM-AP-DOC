@@ -19,7 +19,7 @@ Defines all finds conjunct with or. It has a start tag \<or> and an end tag \</o
 
 ### \<find>
 
-Please refer to [Element - \<find](https://github.com/PacketX/GRISM-APH-XML-DOC/blob/main/xml_script/elements/filter-find.md)>
+Please refer to [Element - \<find](filter_find.md)>
 
 ## Attribute
 
