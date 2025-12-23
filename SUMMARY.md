@@ -2,8 +2,9 @@
 
 ## GET STARTED
 
-* [GRISM APH documentation](README.md)
+* [GRISM AP documentation](README.md)
 * [Ethernet Port Link LED](device/eth_port_link_led.md)
+
 ## XML Script
 
 * [XML Elements](xml_script/elements/README.md)
