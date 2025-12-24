@@ -6,14 +6,14 @@ This case study shows how to distribute incoming traffic from one input port to 
 
 ![Traffic Distribution Flow](/.gitbook/assets/traffic-distribution.svg)
 
-## Configuration
+## GRISM XML Script
 
 ```xml
 <run>
-	<chain>
-		<in>S1.1</in>
-		<out type="loadBalance" lbtype="5thash">S2.1,S2.2</out>
-	</chain>
+    <chain>
+        <in>S1.1</in>
+        <out type="loadBalance" lbtype="5thash">S2.1,S2.2</out>
+    </chain>
 </run>
 ```
 

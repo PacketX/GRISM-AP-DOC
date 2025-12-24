@@ -1,15 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="260" viewBox="0 0 980 260">
   <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L10,3 L0,6 Z" fill="#111" />
+    <marker id="arrow" markerWidth="6" markerHeight="6" refX="5.4" refY="2" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L6,2 L0,4 Z" fill="hsla(128, 100%, 37%, 1.00)" />
     </marker>
     <style>
       .box { fill: #fff; stroke: #111; stroke-width: 2; rx: 8; }
       .text { font-family: Arial, Helvetica, sans-serif; font-size: 16px; fill: #111; }
       .small { font-size: 14px; }
-      .line { stroke: #111; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+      .line { stroke: hsla(128, 100%, 37%, 1.00); stroke-width: 3; fill: none; marker-end: url(#arrow); }
     </style>
   </defs>
+
+  <!-- GRISM AP frame -->
+  <rect x="250" y="40" width="430" height="180" fill="hsla(224, 84%, 38%, 0.10)" stroke="hsla(224, 84%, 38%, 1.00)" stroke-width="4" />
+  <text x="415" y="37" font-family="Arial, Helvetica, sans-serif" font-size="18px" fill="hsla(224, 84%, 38%, 1.00)">GRISM AP</text>
 
   <!-- Boxes -->
   <rect class="box" x="30" y="105" width="140" height="50" />
