@@ -5,13 +5,21 @@
 * [GRISM AP documentation](README.md)
 * [Ethernet Port Link LED](get-started/eth_port_link_led.md)
 
+## Console Port
+
+* [Console Port](console/README.md)
+  * [Global](console/global.md)
+  * [set](console/set.md)
+  * [reset](console/reset.md)
+
+
 ## XML Script
 
 * [XML Elements](xml-script/elements/README.md)
   * [\<run>](xml-script/elements/run.md)
   * [\<chain>](xml-script/elements/chain.md)
   * [\<filer>](xml-script/elements/filter/README.md)
-    * [\<find>](xml-script/elements/filter/filter_find.md)
+    * [\<find>](xml-script/elements/filter/find.md)
 
 ## XML Case Studies
 

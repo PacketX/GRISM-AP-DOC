@@ -1,6 +1,0 @@
----
-icon: cubes
----
-
-# Case Sample
-
